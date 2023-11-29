@@ -4,7 +4,7 @@
 De acordo com o aplicativo do tempo, agora está 73 ºF na sua cidade, se convertêssemos isso para Celsius, qual seria o resultado?
 Sendo:
 $$ F = 73 $$
-$$ C = (73 - 32) \frac{5}{9} $$
+$$ C = (73 - 32) *\frac{5}{9} $$
 $$ C ≅ 23 $$
 O seu programa deverá imprimir graus em Celsius com base no input recebido.
 ---
